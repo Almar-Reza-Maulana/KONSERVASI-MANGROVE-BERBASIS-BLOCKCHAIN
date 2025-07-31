@@ -29,4 +29,4 @@ Pilih salah satu opsi:
 - Rezki Alfian (10.038.DB2025)
 - Sela febria Arbiyani (10.014.DB2025)
 
-PDF Slide bisa klik disini ![PDF](https://github.com/Almar-Reza-Maulana/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/blob/Submit-Blockchain-Mangrove-Task-1/Mangrove%20Indonesia%20Konservasi%20Berbasis%20ilmu%20dan%20Blockchain%20(Kelompok%201%20Batch%2010)_compressed.pdf)
+PDF Slide bisa klik disini [PDF](https://github.com/Almar-Reza-Maulana/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/blob/Submit-Blockchain-Mangrove-Task-1/Mangrove%20Indonesia%20Konservasi%20Berbasis%20ilmu%20dan%20Blockchain%20(Kelompok%201%20Batch%2010)_compressed.pdf)
